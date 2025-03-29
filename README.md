@@ -1,5 +1,5 @@
 # Dev Setup
-1. Starting server
+## 1. server ( Node js + Typescript )
 ```bash
 cd server
 ```
@@ -34,7 +34,7 @@ npm i
 npm run start:dev
 ```
 
-# Cliet
+# 2. Client ( React + Typescript )
 
 ```bash
 cd client
